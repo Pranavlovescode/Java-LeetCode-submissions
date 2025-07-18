@@ -48,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0001-two-sum) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Counting
 |  |
 | ------- |
