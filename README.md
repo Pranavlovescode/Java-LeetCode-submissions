@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
