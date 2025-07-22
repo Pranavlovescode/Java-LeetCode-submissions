@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
