@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 ## Stack
 |  |
@@ -138,4 +140,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0038-count-and-say) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
