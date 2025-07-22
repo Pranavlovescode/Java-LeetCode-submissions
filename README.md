@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [2087-confirmation-rate](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/2087-confirmation-rate) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
