@@ -149,9 +149,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0038-count-and-say) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
