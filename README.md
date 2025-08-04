@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
+| [0940-fruit-into-baskets](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 ## Database
 |  |
