@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0940-fruit-into-baskets) |
+| [1019-squares-of-a-sorted-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
+| [1019-squares-of-a-sorted-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Heap (Priority Queue)
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 ## Segment Tree
 |  |
 | ------- |
