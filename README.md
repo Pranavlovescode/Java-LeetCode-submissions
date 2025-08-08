@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+| [0812-rotate-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0812-rotate-string) |
 ## Queue
 |  |
 | ------- |
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/3790-fruits-into-baskets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
