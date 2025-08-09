@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
+| [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
