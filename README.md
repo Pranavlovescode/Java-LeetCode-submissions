@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0547-number-of-provinces](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1036-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1036-rotting-oranges) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
 |  |
 | ------- |
