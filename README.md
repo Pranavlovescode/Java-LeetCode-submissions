@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1448-maximum-69-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1448-maximum-69-number) |
 ## Counting
 |  |
 | ------- |
