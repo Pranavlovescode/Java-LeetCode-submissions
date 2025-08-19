@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1036-rotting-oranges) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
