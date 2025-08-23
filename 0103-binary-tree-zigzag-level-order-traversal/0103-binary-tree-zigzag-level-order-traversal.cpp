@@ -20,7 +20,6 @@ public:
         int cnt =0;
         q.push(root);
         q.push(nullptr);
-
         while(!q.empty()){
             TreeNode* node = q.front();
             q.pop();
