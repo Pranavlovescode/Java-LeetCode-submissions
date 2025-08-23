@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0547-number-of-provinces) |
 | [0933-increasing-order-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0933-increasing-order-search-tree) |
 ## Breadth-First Search
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0933-increasing-order-search-tree) |
 ## Math
