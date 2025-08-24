@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0933-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0933-increasing-order-search-tree) |
 ## Math
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0933-increasing-order-search-tree) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
