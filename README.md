@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1448-maximum-69-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 ## Union Find
