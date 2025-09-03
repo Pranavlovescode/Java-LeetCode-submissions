@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0812-rotate-string) |
 ## Queue
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Segment Tree
