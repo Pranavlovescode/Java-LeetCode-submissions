@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0169-majority-element) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0229-majority-element-ii) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0229-majority-element-ii) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0242-valid-anagram) |
