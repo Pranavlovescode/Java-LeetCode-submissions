@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0547-number-of-provinces) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0389-find-the-difference) |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0547-number-of-provinces) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
