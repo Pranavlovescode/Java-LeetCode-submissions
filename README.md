@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
