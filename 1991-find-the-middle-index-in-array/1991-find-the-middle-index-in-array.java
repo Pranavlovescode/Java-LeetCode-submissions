@@ -22,6 +22,8 @@ class Solution {
         for (int i = n - 2; i >= 0; i--) {
             sumRight.set(i, sumRight.get(i + 1) + nums[i]);
         }
+        // System.out.println(sumLeft);
+        // System.out.println(sumRight);
 
         // Pivot check
         for (int i = 0; i < n; i++) {
