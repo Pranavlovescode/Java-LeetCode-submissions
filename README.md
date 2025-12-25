@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0229-majority-element-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0733-flood-fill) |
 | [0876-hand-of-straights](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0876-hand-of-straights) |
@@ -316,4 +317,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
