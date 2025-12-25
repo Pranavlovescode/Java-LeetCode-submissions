@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1036-rotting-oranges) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1813-maximum-erasure-value](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1813-maximum-erasure-value) |
+| [1991-find-the-middle-index-in-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/3790-fruits-into-baskets-ii) |
@@ -325,4 +326,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [1991-find-the-middle-index-in-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
