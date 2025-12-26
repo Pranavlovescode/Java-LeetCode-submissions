@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0724-find-pivot-index) |
