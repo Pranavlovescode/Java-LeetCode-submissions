@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0229-majority-element-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0621-task-scheduler](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0733-flood-fill) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0733-flood-fill](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
@@ -323,10 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
