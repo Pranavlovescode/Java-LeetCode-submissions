@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/1448-maximum-69-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Pranavlovescode/Java-LeetCode-submissions/tree/master/0222-count-complete-tree-nodes) |
